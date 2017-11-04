@@ -1,0 +1,11 @@
+1.ddt-1.1.1.tar.gz ：数据驱动框架ddt，将其解压到Python安装目录中，DOS命令行，cd进入ddt目录下，安装ddt：Python ddt-1.1.1 install，安装成功后可以删除ddt解压文件。
+
+2.GetData.py ：获取csv文件中的数据，参考模板。
+
+3.HTMLTestRunner.py ：将执行用例结果以HTML格式生成报告，需要将其放置到C:\Python27\Lib目录中。
+
+4.sendemil.py ：发送Emil，参考模板。
+
+5.SendReport.py ：发送Emil，参考模板。
+
+6.scenarios.py：移动端测试用例样板（appium）。
