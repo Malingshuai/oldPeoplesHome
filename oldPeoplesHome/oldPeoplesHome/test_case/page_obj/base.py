@@ -9,7 +9,7 @@
 class Page(object):
     """页面基础类，用于所有页面的继承, 用于打开网站"""
 
-    bbs_url = 'http://localhost/iwebshop/index.php?controller=systemadmin&action=index'
+    bbs_url = 'http://web.tnb99.net/index.html'
 
     # 需传 浏览器操作句柄，URL，超时等待时间
     def __init__(self, selenium_drive, base_url=bbs_url, parent=None):
